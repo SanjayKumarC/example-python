@@ -6,7 +6,7 @@ accumulation-tree==0.6  # MIT - Red/black tree with support for fast accumulatio
 accumulation-tree==0.6  # MIT - Red/black tree with support for fast accumulation of values in a key range. https://github.com/tkluck/accumulation_tree
 aedir==0.3.0 # Apache License - AE-DIR library for Python
 aedir==0.3.0 # Apache License - AE-DIR library for Python
-aedir==0.0.28 # Apache License - AE-DIR library for Python
+aedir==0.3.0 # Apache License - AE-DIR library for Python
 aedir==0.1.0 # Apache License - AE-DIR library for Python
 aedir==0.1.8 # Apache License - AE-DIR library for Python
 aedir==0.3.0 # Apache License - AE-DIR library for Python
