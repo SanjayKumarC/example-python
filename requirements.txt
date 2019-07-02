@@ -1,7 +1,7 @@
 # This is the list of OSS Python packages that has been approved for usage at Blue Yonder
 #
 # Please keep this list sorted!
-absl-py==0.7.0  # Apache 2 - collection of Python library code for building Python applications
+absl-py==0.7.1  # Apache 2 - collection of Python library code for building Python applications
 accumulation-tree==0.5  # MIT - Red/black tree with support for fast accumulation of values in a key range. https://github.com/tkluck/accumulation_tree
 accumulation-tree==0.6  # MIT - Red/black tree with support for fast accumulation of values in a key range. https://github.com/tkluck/accumulation_tree
 aedir==0.0.22 # Apache License - AE-DIR library for Python
