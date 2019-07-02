@@ -8,5 +8,5 @@ aedir==0.3.0 # Apache License - AE-DIR library for Python
 aedir==0.3.0 # Apache License - AE-DIR library for Python
 aedir==0.3.0 # Apache License - AE-DIR library for Python
 aedir==0.3.0 # Apache License - AE-DIR library for Python
-aedir==0.1.8 # Apache License - AE-DIR library for Python
+aedir==0.3.0 # Apache License - AE-DIR library for Python
 aedir==0.3.0 # Apache License - AE-DIR library for Python
